@@ -1,7 +1,7 @@
 import React from 'react'
 import TeamCard from '../components/TeamCard/TeamCard'
 import {teamdata} from './teamdata'
-import teambg from '../assets/videos/teambg.mp4'
+// import teambg from '../assets/videos/teambg.mp4'
 
 const OurTeam = () => {
   return (
