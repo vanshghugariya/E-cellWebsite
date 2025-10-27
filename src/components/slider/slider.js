@@ -74,10 +74,10 @@ export default function Slider() {
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut sequi,
               rem magnam nesciunt minima placeat, itaque eum neque officiis unde.
             </div>
-            <div className="buttons">
+            {/* <div className="buttons">
               <button>SEE MORE</button>
               <button>SUBSCRIBE</button>
-            </div>
+            </div> */}
           </div>
         </div>
 
@@ -91,10 +91,10 @@ export default function Slider() {
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut sequi,
               rem magnam nesciunt minima placeat, itaque eum neque officiis unde.
             </div>
-            <div className="buttons">
+            {/* <div className="buttons">
               <button>SEE MORE</button>
               <button>SUBSCRIBE</button>
-            </div>
+            </div> */}
           </div>
         </div>
 
@@ -108,10 +108,10 @@ export default function Slider() {
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut sequi,
               rem magnam nesciunt minima placeat, itaque eum neque officiis unde.
             </div>
-            <div className="buttons">
+            {/* <div className="buttons">
               <button>SEE MORE</button>
               <button>SUBSCRIBE</button>
-            </div>
+            </div> */}
           </div>
         </div>
 
@@ -125,10 +125,10 @@ export default function Slider() {
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut sequi,
               rem magnam nesciunt minima placeat, itaque eum neque officiis unde.
             </div>
-            <div className="buttons">
+            {/* <div className="buttons">
               <button>SEE MORE</button>
               <button>SUBSCRIBE</button>
-            </div>
+            </div> */}
           </div>
         </div>
        <div className="item">
@@ -141,10 +141,10 @@ export default function Slider() {
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut sequi,
               rem magnam nesciunt minima placeat, itaque eum neque officiis unde.
             </div>
-            <div className="buttons">
+            {/* <div className="buttons">
               <button>SEE MORE</button>
               <button>SUBSCRIBE</button>
-            </div>
+            </div> */}
           </div>
         </div>
         <div className="item">
@@ -157,10 +157,10 @@ export default function Slider() {
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut sequi,
               rem magnam nesciunt minima placeat, itaque eum neque officiis unde.
             </div>
-            <div className="buttons">
+            {/* <div className="buttons">
               <button>SEE MORE</button>
               <button>SUBSCRIBE</button>
-            </div>
+            </div> */}
           </div>
         </div>
         <div className="item">
@@ -173,10 +173,10 @@ export default function Slider() {
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut sequi,
               rem magnam nesciunt minima placeat, itaque eum neque officiis unde.
             </div>
-            <div className="buttons">
+            {/* <div className="buttons">
               <button>SEE MORE</button>
               <button>SUBSCRIBE</button>
-            </div>
+            </div> */}
           </div>
         </div>
         <div className="item">
@@ -189,10 +189,10 @@ export default function Slider() {
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut sequi,
               rem magnam nesciunt minima placeat, itaque eum neque officiis unde.
             </div>
-            <div className="buttons">
+            {/* <div className="buttons">
               <button>SEE MORE</button>
               <button>SUBSCRIBE</button>
-            </div>
+            </div> */}
           </div>
         </div>
         <div className="item">
@@ -205,10 +205,10 @@ export default function Slider() {
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut sequi,
               rem magnam nesciunt minima placeat, itaque eum neque officiis unde.
             </div>
-            <div className="buttons">
+            {/* <div className="buttons">
               <button>SEE MORE</button>
               <button>SUBSCRIBE</button>
-            </div>
+            </div> */}
           </div>
         </div>
         <div className="item">
@@ -221,10 +221,10 @@ export default function Slider() {
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut sequi,
               rem magnam nesciunt minima placeat, itaque eum neque officiis unde.
             </div>
-            <div className="buttons">
+            {/* <div className="buttons">
               <button>SEE MORE</button>
               <button>SUBSCRIBE</button>
-            </div>
+            </div> */}
           </div>
         </div>
 

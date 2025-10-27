@@ -4,6 +4,8 @@ import './index.css';
 import {RouterProvider} from "react-router-dom";
 import {router} from './App'
 import reportWebVitals from './reportWebVitals';
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
