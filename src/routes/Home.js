@@ -3,8 +3,6 @@ import AboutUs from "../components/AboutUs";
 import HeroSection from "../components/HeroSection/HeroSection";
 import "../components/slider/slider.js"
 // import { Parallax } from 'react-parallax';
-import building from '../assets/images/building.jpg'
-import cardimg from '../assets/images/cardimg.jpg'
 import Slider from "../components/slider/slider.js";
 // import Marquee from "../components/Marquee/Marquee";
 

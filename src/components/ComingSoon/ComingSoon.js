@@ -16,7 +16,6 @@ import speaker4 from "../../assets/images/Summit_Images/4.jpg";
 import speaker5 from "../../assets/images/Summit_Images/5.jpg";
 import speaker6 from "../../assets/images/Summit_Images/6.jpg";
 import speaker7 from "../../assets/images/Summit_Images/7.png";
-import esummitdesign from "../../assets/images/Summit_Images/E-Summitdesign1.png";
 // // import BGvideo from "../../assets/videos/comingsoon.mp4";
 // import LOGO1 from "../../assets/images/Summit_Images/E-Summit_Post.jpg";
 // import Spline from "@splinetool/react-spline";
