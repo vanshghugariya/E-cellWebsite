@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import "./HeroSection.css";
 import Typewriter from "typewriter-effect";
 // import hero from "../../assets/images/hero.gif";
-import Spline from '@splinetool/react-spline';
+// import Spline from '@splinetool/react-spline';
 
 
 const HeroSection = () => {
