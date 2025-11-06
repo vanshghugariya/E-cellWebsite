@@ -40,7 +40,7 @@ const HeroSection = () => {
         </div>
         <div className="heroImg">
           {/* <img src={hero} alt="hero" /> */}
-           {/* <Spline scene="https://prod.spline.design/CmltLJOLng3CmrvN/scene.splinecode" /> */}
+           <Spline scene="https://prod.spline.design/CmltLJOLng3CmrvN/scene.splinecode" />
         </div>
       </div>
     </div>
